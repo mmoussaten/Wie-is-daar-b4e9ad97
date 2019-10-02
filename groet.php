@@ -1,3 +1,4 @@
-<?php
-echo "hoi gebruiker!";
-echo "hallo computer!";
+<?php;
+echo "goedemiddag\n";
+$input = readline();
+echo("de gebruiker zegt : ".$input);
